@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanmoybhowmik
 - 👀 I’m interested in Coding, cooking, eating, sleeping.
-- 🌱 I’m currently learning Anguler JS, NODE JS.
+- 🌱 I’m currently learning React Js JS, NODE JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me beappend.com
 
